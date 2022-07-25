@@ -1,4 +1,4 @@
-### 👋 Hi, welcome to my Account
+### Maurice Hofmann - Software Developer
 
 - ✋ Hello, my name is Maurice Hofmann - nice to see you here!
 - 🎓 I am 21 years old and currently in an apprenticeship to become a passionate professional software developer.
