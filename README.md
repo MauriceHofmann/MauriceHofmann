@@ -1,7 +1,7 @@
 ### Maurice Hofmann - Software Developer
 
 - ✋ Hello, my name is Maurice Hofmann - nice to see you here!
-- 🎓 I am 21 years old and currently in an apprenticeship to become a passionate professional software developer.
+- 🎓 I am 22 years old and currently in an apprenticeship to become a passionate professional software developer.
 - 📚 I'm always interested in learning new stuff and sharing these things with all
 - 👨‍💻 I like to program in C# - so you will find numerous projects and exercises here
 - 🐍 I really want to learn Python and Web Development in the near future
