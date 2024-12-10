@@ -1,5 +1,5 @@
 **Maurice Hofmann** <br>
-<i>Computer Science Expert - Subject Area: Software Development</i> <br>
+<i>Computer Science Expert - Subject Area: Software Development (IHK)</i> <br>
 
 - ✋ Hello, my name is Maurice Hofmann - nice to see you here!
 - 🎓 I am 23 years old and I'm a passionate professional expert in computer science with a focus on software development
